@@ -1,0 +1,7 @@
+-e git+git@github.com:aniav/python-goose.git@32aec74f3ad6676efaa3eac10f990c2cc30e9898#egg=goose_extractor
+
+Distance==0.1.3
+jusText==2.2.0
+newspaper3k==0.1.9
+python-Levenshtein==0.12.0
+tika==1.14.1
