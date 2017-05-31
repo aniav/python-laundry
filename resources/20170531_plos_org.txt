@@ -1,0 +1,251 @@
+Abstract
+
+Background
+
+Recent efforts in malaria control have resulted in great gains in reducing the burden of Plasmodium falciparum, but P. vivax has been more refractory. Its ability to form dormant liver stages confounds control and elimination efforts. To compare the efficacy and safety of primaquine regimens for radical cure, we undertook a randomized controlled trial in Ethiopia.
+
+Methods and findings
+
+Patients with normal glucose-6-phosphate dehydrogenase status with symptomatic P. vivax mono-infection were enrolled and randomly assigned to receive either chloroquine (CQ) or artemether-lumefantrine (AL), alone or in combination with 14 d of semi-supervised primaquine (PQ) (3.5 mg/kg total). A total of 398 patients (n = 104 in the CQ arm, n = 100 in the AL arm, n = 102 in the CQ+PQ arm, and n = 92 in the AL+PQ arm) were followed for 1 y, and recurrent episodes were treated with the same treatment allocated at enrolment. The primary endpoints were the risk of P. vivax recurrence at day 28 and at day 42.
+
+The risk of recurrent P. vivax infection at day 28 was 4.0% (95% CI 1.5%–10.4%) after CQ treatment and 0% (95% CI 0%–4.0%) after CQ+PQ. The corresponding risks were 12.0% (95% CI 6.8%–20.6%) following AL alone and 2.3% (95% CI 0.6%–9.0%) following AL+PQ. On day 42, the risk was 18.7% (95% CI 12.2%–28.0%) after CQ, 1.2% (95% CI 0.2%–8.0%) after CQ+PQ, 29.9% (95% CI 21.6%–40.5%) after AL, and 5.9% (95% CI 2.4%–13.5%) after AL+PQ (overall p < 0.001). In those not prescribed PQ, the risk of recurrence by day 42 appeared greater following AL treatment than CQ treatment (HR = 1.8 [95% CI 1.0–3.2]; p = 0.059). At the end of follow-up, the incidence rate of P. vivax was 2.2 episodes/person-year for patients treated with CQ compared to 0.4 for patients treated with CQ+PQ (rate ratio: 5.1 [95% CI 2.9–9.1]; p < 0.001) and 2.3 episodes/person-year for AL compared to 0.5 for AL+PQ (rate ratio: 6.4 [95% CI 3.6–11.3]; p < 0.001). There was no difference in the occurrence of adverse events between treatment arms.
+
+The main limitations of the study were the early termination of the trial and the omission of haemoglobin measurement after day 42, resulting in an inability to estimate the cumulative risk of anaemia.
+
+Conclusions
+
+Despite evidence of CQ-resistant P. vivax, the risk of recurrence in this study was greater following treatment with AL unless it was combined with a supervised course of PQ. PQ combined with either CQ or AL was well tolerated and reduced recurrence of vivax malaria by 5-fold at 1 y.
+
+Trial registration
+
+ClinicalTrials.gov NCT01680406
+
+Author summary
+
+Why was this study done?
+
+In areas where Plasmodium vivax is endemic, recurrent parasitaemia arises from chloroquine (CQ) resistance and the reactivation of dormant hypnozoites. Recurrent parasitaemia is associated with significant morbidity and mortality. Providing safe and effective radical cure of blood and liver stages of the parasite is critical for the control and elimination of P. vivax malaria.
+Two systematic reviews of P. vivax clinical trials highlighted a declining efficacy for CQ in many P. vivax endemic areas and marked heterogeneity in study design for determining primaquine (PQ) efficacy. The conclusions of these reviews were that clinical trials to determine the efficacy of radical cure should follow up patients for a prolonged period to capture late relapses and should quantify the incidence rate of multiple recurrences, not just the time to the first recurrence.
+The rise in CQ-resistant P. vivax provides a good rationale for artemisinin combination therapy for P. vivax malaria; however, the efficacy of artemisinin combination therapies in combination with PQ radical cure is poorly documented.
+What did the researchers do and find?
+
+We randomized patients to four treatment arms: one group received CQ only (the current recommended treatment for P. vivax malaria in Ethiopia), the second group received CQ plus PQ, the third group received artemether-lumefantrine (AL) alone, and the fourth group received AL plus PQ. All patients were followed up for a year and were treated with the same treatment for every P. vivax malaria episode.
+We quantified the risk of P. vivax infections at day 28 after treatment and also over 12 months. The risk of recurrence by day 28 and 42 was greater following AL than CQ. The addition of PQ to either CQ or AL reduced the risk of recurrence 3-fold by day 42, and 2- to 3-fold over one year.
+Patients treated with PQ had on average only 0.5 P. vivax malaria episodes per year, whereas patients not treated with PQ had on average two episodes per year. The efficacy of PQ treatment for recurrences, which was unsupervised, was 3- to 4-fold lower than that of the initial treatment, which was semi-supervised.
+What do these findings mean?
+
+In Ethiopia there is evidence of CQ resistance; nevertheless, in this study CQ monotherapy had greater efficacy than AL therapy at day 42.
+The addition of PQ radical cure to either CQ or AL provided major benefits in reducing subsequent recurrent infection.
+PQ radical cure should be included in the treatment schedule in Ethiopia and other areas with high relapse risk to reduce relapsing infection and transmission, but further work is needed to improve adherence to the current 14-day regimen to ensure maximum public health impact.
+Figures
+
+
+Citation: Abreha T, Hwang J, Thriemer K, Tadesse Y, Girma S, Melaku Z, et al. (2017) Comparison of artemether-lumefantrine and chloroquine with and without primaquine for the treatment of Plasmodium vivax infection in Ethiopia: A randomized controlled trial. PLoS Med 14(5): e1002299. https://doi.org/10.1371/journal.pmed.1002299
+Academic Editor: Clara Menendez, ISGlobal, SPAIN
+Received: October 25, 2016; Accepted: April 3, 2017; Published: May 16, 2017
+This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.
+Data Availability: The data are available for access via the WorldWide Antimalarial Resistance Network (WWARN.org). Requests for access will be reviewed by a Data Access Committee to ensure that use of data protects the interests of the participants and researchers according to the terms of ethics approval and principles of equitable data sharing. Requests can be submitted by email to malariaDAC@iddo.org via the Data Access Form available at WWARN.org/accessing-data. The WWARN is registered with the Registry of Research Data Repositories (re3data.org).
+Funding: This research was made possible through support provided by the President’s Malaria Initiative via the Office of Health, Infectious Diseases, and Nutrition, Bureau for Global Health, U.S. Agency for International Development and the Bill & Melinda Gates Foundation (OPP1054404). RNP is a Wellcome Trust Senior Fellow in Clinical Science (200909). JH, HT, and GD receive salary support from the U.S. President’s Malaria Initiative. No funding bodies had any role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing interests: LvS receives a stipend as a specialty consulting editor for PLOS Medicine and serves on the journal's editorial board.
+Abbreviations: AE, adverse event; AL, artemether-lumefantrine; CQ, chloroquine; DOT, directly observed treatment; G6PD, glucose-6-phosphate dehydrogenase; Hb, haemoglobin; HR, hazard ratio; IQR, interquartile range; PQ, primaquine; PYO, person-year of observation
+Introduction
+
+Almost 3 billion people live at risk of Plasmodium vivax infection [1,2], with over 100 million clinical malaria cases estimated to occur each year [3]. The greatest burden of P. vivax malaria is in the Asia-Pacific region and South America, whereas on the African continent, P. vivax infection is limited mostly to the Horn of Africa. Recent intensification of malaria control efforts has reduced the global burden of P. falciparum malaria, but P. vivax has been more refractory. Vivax malaria is more difficult to cure than falciparum malaria, due to its ability to form dormant liver stages (hypnozoites) that reactivate periodically, causing relapsing infections and onward transmission. Chloroquine (CQ) remains the mainstay of treatment for vivax malaria in most endemic countries, but drug resistance has emerged in South-East Asia and is spreading [4]. Relapsing and increasingly frequent recrudescent infections cause repeated symptomatic illnesses, worsening the risk of anaemia and severe and fatal disease [5,6].
+
+Although P. vivax is rare on the African continent outside the Horn of Africa, in Ethiopia it is responsible for approximately 40% of all clinical malaria [7–9]. National treatment guidelines recommend CQ as first-line treatment for uncomplicated P. vivax malaria. Artemether-lumefantrine (AL) is used widely for mixed-species infections of P. falciparum and P. vivax, and for cases of clinical malaria where diagnostics to determine the Plasmodium species are unavailable. Both CQ and AL have schizonticidal efficacy but lack activity against the liver stages. Primaquine (PQ), an 8-aminoquinoline, is the only currently available hypnozoiticide, but can cause severe haemolysis in glucose-6-phosphate-dehydrogenase (G6PD)–deficient patients; for this reason, programmes are often reluctant to recommend PQ, and healthcare providers are hesitant to prescribe it. Ethiopia has embarked on an ambitious malaria control programme, supporting the country’s Health Sector Development Plan as well as the national child survival strategy. The control and elimination of malaria will require deployment of a safe and effective radical cure of P. vivax. At the time this study was conducted, PQ radical cure was not part of the national antimalarial guidelines for patients living in malaria endemic areas of the country. To compare suitable treatment strategies, we undertook a randomized controlled trial of the efficacy of PQ in combination with CQ or AL at two sites in Oromia Region, Ethiopia.
+
+Methods
+
+Ethics
+
+Ethical approval for the study was granted by the National Research Ethics Review Committee in Ethiopia (3.10/801/05), the Human Research Ethics Committee of the Northern Territory Department of Health and Menzies School of Health Research in Australia (HREC 2013–1938), the US Centers for Disease Control and Prevention Institutional Review Board B (6338.0), and the Columbia University Institutional Review Board (AAAK4706).
+
+Study design and participants
+
+The study was designed as an open-label randomized controlled trial with four arms, conducted at the Bishoftu Malaria Control Center and the Batu Health Center in Oromia Region, in central Ethiopia (S1 Text). Bishoftu is approximately 50 km south of Addis Ababa, and Batu a further 115 km south. The main transmission season is between September and November, and healthcare facility data confirmed P. vivax to be the dominant malaria species. Anopheles arabiensis is the primary malaria vector, and the prevalence of malaria in Oromia Region was 0.4% during the 2011 national malaria indicator survey [10]. Patients seeking care with suspected malaria were screened for the following inclusion criteria: slide-confirmed mono-infection with P. vivax, age > 1 y, weight ≥ 5.0 kg, living within 20 km of the enrolling health facility, and axillary temperature ≥ 37.5°C or history of fever during the previous 48 h. Patients were excluded if they were pregnant or breastfeeding, had danger signs or severe manifestations of malaria, signs of severe malnutrition, slide-confirmed infection with any other Plasmodium species besides P. vivax, acute anaemia (haemoglobin [Hb] < 80 g/l) or history of haemolysis, known hypersensitivity to any of the study drugs, other significant comorbidities, or regular medication that could interfere with their antimalarial treatment. All participants or their guardian/caregiver agreed to finger prick sampling and provided written informed consent.
+
+Randomization
+
+Patients were randomized in a two-stage process: (i) at enrolment, randomization to either CQ or AL schizonticidal treatment and (ii) on day 2, after G6PD testing, randomization into the PQ or no-PQ arms. Patients with severe or intermediate G6PD deficiency were excluded from the second randomization to PQ. The randomization sequence was computer-generated by one of the investigators and kept in sealed opaque envelopes. Randomization was done in blocks of eight for each site separately. Clinicians enrolled the patients, and nurses assigned the patients sequentially according to the sealed envelopes.
+
+Study procedures
+
+Treatment.
+
+CQ (Micro Labs Limited, Tamil Nadu, India) was prescribed according to national guidelines at 25 mg base/kg over 3 d (10 mg base/kg on days 0 and 1, and 5 mg base/kg on day 2). AL (20 mg of artemether and 120 mg of lumefantrine; Novartis Pharmaceuticals Corporation, New York, NY, US) was administered twice daily for 3 d according to the manufacturer’s recommendations. The CQ and AL tablets used in the study were certified and provided by the World Health Organization Global Malaria Programme. Initial schizonticidal treatment with CQ was fully supervised, whereas for AL only the morning dose was supervised, and the second dose taken unsupervised at home. PQ (Sanofi-Aventis, Bridgewater, NJ, US) was prescribed at 0.25 mg/kg daily dose over 14 d starting on day 2, and administration was semi-supervised during the initial episode, with directly observed treatment (DOT) on days 2, 3, 7, 10, and 14; doses in between were self-administered. For all subsequent episodes of malaria, schizonticidal as well as PQ treatment was unsupervised.
+
+All patients were observed for 60 min after treatment for adverse reactions or vomiting when administered under supervision. Patients vomiting their medication within the first 30 min received a repeat full dose; patients vomiting within 30–60 min received half the original dose. Patients failing treatment in any arm within 14 d were treated with quinine 10 mg/kg every 8 h for 7 d as per the national guideline.
+
+Clinical procedures.
+
+During screening, a G6PD test was carried out on all patients, and a pregnancy test on all adult females. At enrolment, patients had a medical examination, a questionnaire was completed, and a capillary blood sample was collected for blood film examination and Hb measurement. Three 50-μl capillary blood spots were stored on filter papers (Whatman 903 and Whatman 3; GE Healthcare Biosciences, Westborough, MA, US). In consenting patients, venous blood samples were collected at enrolment and, if malaria recurred, on the day of recurrence.
+
+Patients were asked to return for routine assessment daily for the first 3 d, then weekly until day 42, and thereafter monthly for an additional 10 mo. Patients were also asked to return to the clinic if they had signs or symptoms consistent with malaria, and those with recurrent clinical P. vivax malaria occurring more than 14 d following treatment received the same treatment as that allocated at enrolment, with subsequent follow-up according to the initial schedule.
+
+A follow-up medical exam and blood film examination was undertaken on days 1, 2, 3, 7, 14, 21, 28, 35, and 42, and monthly thereafter for 10 mo. Adverse drug reactions and concomitant medications were recorded at every visit, with repeat Hb concentration measured on days 3, 7, 14, 21, 28, 35, and 42.
+
+Laboratory procedures.
+
+G6PD status was determined by NADPH fluorescent spot test (Trinity Biotech, Bray, Ireland). Hb concentration was measured using a HemoCue Hb 301 instrument (HemoCue, Angelholm, Sweden). Blood film examination was undertaken by two certified microscopists, and all slides read independently. Blood smears with discordant results (differences between the two microscopists in species diagnosis, in parasite density of >50%, or in regard to the positivity of the smear) were re-examined by a third, independent microscopist, and parasite density was calculated by averaging the two closest counts.
+
+PCR-based species confirmation was undertaken on all clinical samples on day 0 and the day of any recurrence until day 42 using a genus/P. falciparum duplex PET-PCR assay [11] and an in-house P. vivax PET-PCR assay. Parasite genotyping was undertaken using seven microsatellite markers as described previously [12,13] (S2 Text).
+
+When recurrence of P. vivax occurred before day 28, whole blood concentrations of CQ and its metabolite desethylchloroquine (DCQ) were measured from dried blood spots collected on the day of recurrence using an HPLC method [14]. The limit of detection for both CQ and DCQ was 5 ng/ml. Levels < 5 ng/ml were designated as below detection.
+
+Outcome
+
+The primary endpoint was the cumulative risk of P. vivax recurrence at day 28 and day 42 following treatment of the first episode of malaria, comparing AL with AL+PQ and CQ with CQ+PQ. A secondary endpoint was the cumulative risk at day 28 for AL compared with CQ and for AL+PQ compared with CQ+PQ. Other secondary endpoints included parasite and fever clearance, and cumulative risk and incidence rate of recurrences at the end of the study. Safety endpoints were the proportion of patients with adverse events (AEs) and serious AEs, the fractional change in Hb, the proportion of patients with a >25% drop in Hb between baseline and day 7, and the proportion of patients with anaemia (Hb < 100 g/l) on days 3 and 7. Haematological recovery at day 28 was defined as an Hb value on day 28 above baseline.
+
+Statistical analysis
+
+The sample size was based on a power calculation assuming an efficacy of 68% at day 42 after CQ monotherapy and that the addition of PQ would increase this to 87%. A total of 97 in each group would achieve 90% power to detect this difference between groups. Adjusting the alpha level to 0.025 for multiple comparisons and estimating 15% loss to follow-up increased the proposed sample size to 120 per treatment arm.
+
+Data were double-entered into a Microsoft Access database, and analyses conducted using STATA 14 (StataCorp, College Station, TX, US), according to an a priori statistical analysis plan (S3 Text). In view of the potential interaction between PQ and CQ [15] and between PQ and AL [16], comparisons between each of the arms were undertaken separately, rather than using a 2 × 2 factorial design approach, which assumes no interaction between the interventions. The cumulative risks were calculated by survival analyses (Kaplan—Meier) at day 28, day 42, and the end of the follow-up, and treatment groups compared using a Cox regression model. The proportional hazards assumption was assessed by visually comparing the log(cumulative hazard) by time of follow-up curves for each co-variable category and subsequently by fitting and comparing models with and without time of follow-up interaction terms. Genotyping results were used to calculate adjusted cumulative risk of recurrence by days 28 and 42 by censoring for heterologous infections, which may represent reinfection or relapse; for this analysis, only PCR-confirmed P. vivax infections at enrolment were included (S2 Text) [17]. The risks of recurrence after primary and secondary treatments were compared at 6 mo to ensure sufficient patient follow-up time. Incidence rates were calculated from microscopy results by dividing the number of P. vivax episodes by the number of person-years of observation. Incidence rate ratios between treatment arms were derived from a negative binomial regression model. The primary analysis was by intention to treat (ITT), and in the secondary analysis a modified ITT approach was used, in which patients receiving incorrect treatment or in whom no treatment information was available were censored on the day of the recurrence. Patients with intermediate or deficient G6PD status were not included in the second stage of randomization; they were included only in descriptive results and were excluded from any relevant comparisons between arms.
+
+Results
+
+Baseline characteristics
+
+The study was conducted between 8 November 2012 and 31 December 2014, during which a total of 1,177 patients were screened, and 398 (33.8%) enrolled in the study (Fig 1). In view of logistical constraints and the lack of further patients with malaria, the study was terminated at the end of the malaria season in 2014, after 82.9% (398/480) of the target sample size had been recruited.
+
+The majority of patients (77.1%, 307/398) were enrolled at the Bishoftu Malaria Control Center. There were no important differences in baseline characteristics between the four treatment arms (Table 1) or in the proportion of patients lost to follow-up by day 42. G6PD deficiency was measured for 393 (98.7%) patients; missing values are mainly due to loss to follow-up before day 2. Nine (2.3%, 9/393) patients had intermediate G6PD results; they were randomized on day 0 for schizonticidal treatment, but did not receive PQ treatment (Table 1). In total, 98.2% (391/398) of patients completed a full course of schizonticidal treatment, of whom six (1.5%) vomited their dose within 1 h of administration (four in the CQ arm and two in the AL arm). One patient vomited doses of AL on day 1 and 2.
+
+Day 28 and 42 outcomes
+
+There were 17 recurrent P. vivax infections documented within 28 d of follow-up, and a further 34 between day 28 and 42 (27 in the AL arm, 18 in the CQ arm, five in the AL+PQ arm, and one in the CQ+PQ arm) (Table 2). An additional five patients presented with a P. falciparum infection before day 28, and one more between day 28 and 42. Patients in treatment arms that included PQ had significantly fewer recurrent malaria episodes than patients on schizonticidal therapy alone. By day 28, the cumulative risk for P. vivax recurrence was 4.0% (95% CI 1.5%–10.4%) for patients treated with CQ alone compared to 0% (95% CI 0%–4.0%) for those treated with CQ+PQ (p < 0.001). The corresponding risks were 12.0% (95% CI 6.8%–20.6%) following AL alone and 2.3% (95% CI 0.6%–9.0%) following AL+PQ (hazard ratio [HR] = 5.1 [95% CI 1.1–23.5], p = 0.034) (Fig 2; Tables 2 and 3).
+
+By day 42, the risk of recurrence had risen to 18.7% (95% CI 12.2%–28.0%) in the CQ arm and 1.2% (95% CI 0.2%–8.0%) in the CQ+PQ arm (HR = 18.5 [95% CI 2.5–138.5], p = 0.005). The corresponding risk for patients in the AL arm was 29.9% (95% CI 21.6%–40.5%) compared to 5.9% (95% CI 2.4%–13.5%) in the AL+PQ arm (HR = 5.9 [95% CI 2.3–15.3], p < 0.001) (Fig 2; Tables 2 and 3). In those not prescribed PQ, the risk of recurrence by day 42 was greater following AL than CQ, although this difference was of borderline significance (HR = 1.8 [95% CI 1.0–3.2], p = 0.059) (Table 3).
+
+Genotyping was feasible in 90.9% (362/398) of parasite isolates on day 0 and in 90.2% (46/51) of paired isolates from patients with recurrence prior to day 42. In total, 47.8% (22/46) of the paired P. vivax isolates that could be assessed were homologous (S2 Text).
+
+Blood chloroquine concentrations on the day of recurrence could be measured in two of the four patients with recurrent infection before day 28 in the CQ arm, both of whom had CQ blood concentrations greater than 100 nM.
+
+Parasite and fever clearance
+
+By day 1, 60.2% (124/206) of those treated with CQ were still parasitaemic compared to 31.8% (61/192) of those treated with AL regimens (odds ratio = 3.3 [95% CI 2.2–5.0], p < 0.001). By day 2, the prevalence of parasitaemia was 6.8% in the CQ arms and 2.6% in the AL arms. By day 3, only two patients in the CQ arms remained parasitaemic (Table 4).
+
+Of the 166 patients with documented fever at enrolment, 96.4% (159/165) were afebrile within 24 h, with 98.8% (84/85) in the AL arms compared to 93.8% (75/80) in the CQ arms (p = 0.109) (Table 4).
+
+Antirelapse efficacy
+
+After 1 y of follow-up, 150 patients had experienced at least one recurrent episode of P. vivax determined by microscopy (57 after CQ, 62 after AL, 14 after CQ+PQ, and 17 after AL+PQ), and a further eight had had P. falciparum infections (three following CQ and five after CQ+PQ) (Table 2). The risk of any recurrence of P. vivax was 61.7% (95% CI 51.9%–71.7%) following CQ alone compared to 72.4% (95% CI 62.5%–81.6%) following AL alone (p = 0.127). Compared to CQ or AL alone, the risk of recurrence was significantly lower when treatment was combined with PQ: 20.5% (95% CI 13.0%–31.5%) following CQ+PQ (HR = 5.4 [95% CI 3.0–9.7] compared to CQ alone, p < 0.001) and 22.0% (95% CI 14.2%–33.1%) following AL+PQ (HR = 5.2 [95% CI 3.0–9.0] compared to AL alone, p < 0.001). There was no difference in the risk of recurrence at the end of the study between patients treated with CQ+PQ and AL+PQ (Fig 2; Tables 2 and 3).
+
+Recurrent P. vivax infections occurred later in the PQ arms than the monotherapy arms. The median time of the first recurrence was 82.5 d (interquartile range [IQR] 61.0–186.5) for CQ+PQ compared to 51 d (IQR 42.0–86.0) for CQ alone (p = 0.006) and 87 d (IQR 35.0–117.0) for AL+PQ compared to 49.5 d (IQR 35.0–98.0) for AL alone (p = 0.040). In the no-PQ arms, 90.8% (108/119) of the recurrent parasitaemias occurred within the first 6 mo.
+
+A total of 322 P. vivax recurrent infections were detected by microscopy during follow-up (134 after AL, 133 after CQ, 29 after AL+PQ, and 26 after CQ+PQ) (Fig 3). The incidence rate was 2.3 (95% CI 1.9–2.7) episodes per person-year of observation (PYO) for AL, 2.2 (95% CI 1.8–2.6) for CQ, 0.5 (95% CI 0.3–0.7) for AL+PQ, and 0.4 (95% CI 0.3–0.6) for CQ+PQ (Table 3).
+
+Partial primaquine dose and unsupervised primaquine treatment
+
+The initial treatment with PQ was supervised on scheduled clinic days, and adherence assessed by tablet review at the subsequent visit. The total PQ dose administered per unit body weight was 3.4 mg/kg (IQR 2.8–4.0) in the AL+PQ arm and 3.5 mg/kg (IQR 2.6–4.0) in the CQ+PQ arm. The histogram of PQ dose distribution shows distinct populations that correspond to patients who received a total PQ dose below 2.6 mg/kg and the rest (S1 Fig). There were 27 patients in the CQ+PQ arm and 22 patients in the AL+PQ arm who received a dose below 2.6 mg/kg, and these patients appeared to be at greater risk of recurrence by 6 mo compared to those who received a dose >2.6 mg/kg: HR = 3.8 (95% CI 1.1–13.0) for CQ+PQ and HR = 2.8 (95% CI 1.0–8.0) for AL+PQ, p = 0.036 and p = 0.059, respectively.
+
+For all subsequent recurrences, only the first dose of the antimalarial drugs was supervised. The risk of recurrence after 6 mo of follow-up between the primary and secondary treatments did not differ significantly for patients in either the CQ arm (HR = 1.2 [95% CI 0.8–1.84], p = 0.5) or the AL arm (HR = 0.8 [95% CI 0.5–1.3], p = 0.4). However, patients were at significantly greater risk of recurrent P. vivax after the unsupervised PQ retreatment than after the partially supervised initial PQ treatment: 86.8% (95% CI 77.3%–92.5%) versus 63.2% (95% CI 31.7%–93.3%) in patients in the CQ+PQ arm (HR = 3.9 [95% CI 1.3–11.4], p = 0.014) and 84.0% (95% CI 74.0%–90.4%) versus 51.9% (95% CI 24.4%–73.7%) in patients in the AL+PQ arm (HR = 3.5 [95% CI 1.4–8.9], p = 0.008) (S2 Fig).
+
+Safety
+
+A total of 358 AEs were reported, but no serious AEs. There was no difference in the occurrence of any of the categories of AEs between treatment arms or by total PQ dosage received. The most frequent AEs were headache (25.5%), fever (18.8%), chills (9.2%), cough (7.0%), vomiting (6.7%), body pain (5.0%), abdominal pain (4.8%), weakness (4.2%) and diarrhoea (4.0%) (Table 5).
+
+The nadir of Hb concentration occurred on day 3 irrespective of treatment. The mean percentage fall from baseline by day 3 was 6.3% (95% CI 5.0%–7.7%) in the CQ arm, 5.7% (95% CI 4.3%–7.1%) in the AL arm, 5.9% (95% CI 4.4%–7.4%) in the CQ+PQ arm, and 7.6% (95% CI 5.1%–10.0%) in the AL+PQ arm (p = 0.577). On day 3, 3.6% (7/195) of patients treated with a PQ regimen had anaemia (Hb < 100 g/l) compared to 4.2% (8/191) of those treated with a no-PQ regimen (p = 0.08). By day 28, haematological recovery occurred in 211 (70.8%) patients. Hb concentration did not fall below 80 g/l in any of the patients during the study period, and no patient required blood transfusion.
+
+Discussion
+
+This study highlights that the combination of PQ with either CQ or AL reduced the risk of early recurrence (within 42 d) of P. vivax by up to 3-fold, and decreased the risk of recurrence over 1 y by 2- to 3-fold, compared to CQ or AL alone. PQ (3.5 mg/kg over 14 d) was well tolerated, without significant adverse effects. Recent clinical trials have highlighted the declining efficacy of CQ against P. vivax in Ethiopia [18–20], with the risk of recurrence at day 28 ranging from 14% [21] to 22% [20]. Our study provides evidence of low-grade CQ resistance [4,22], with 3.8% of patients having recurrence by day 28 in the presence of adequate CQ blood concentration (>100 nM). However, despite CQ’s compromised efficacy, the risk of recurrence was almost 2-fold greater in patients treated with AL alone compared to those treated with CQ alone, although this difference did not reach statistical significance (p = 0.059). In equatorial regions endemic for P. vivax, including Ethiopia, the risk of P. vivax relapse is generally high, with the first recurrence occurring about 21 d following the initial treatment [23]. Lumefantrine has an elimination half-life of 3–6 d, and, by 16 d, drug concentrations have fallen well below the minimum inhibitory concentration for the parasite and thus are no longer sufficient to prevent relapsing infections. Conversely, the slower elimination of CQ affords prolonged post-treatment prophylaxis, capable of suppressing early relapses [24]. By day 42, both CQ and lumefantrine levels are expected to be below the minimum inhibitory concentration, and, hence, in the absence of PQ, it is not surprising that there was no difference in the incidence of recurrent infections beyond that time.
+
+The prolonged duration of the study and repeated administration of the same treatment regimen for each episode of malaria allowed quantification of the cumulative risk of P. vivax and incidence of recurrence over a 12-mo period. The incidence of infection reflects the likely impact that would result from corresponding policy change. Patients receiving CQ or AL alone had four or five recurrences, with an overall incidence rate of approximately two episodes per PYO. The addition of a supervised 14-d regimen of PQ resulted in a 4-fold reduction in the incidence rate, from 2 to 0.5 episodes per PYO. Radical cure with PQ is a function of the total mg/kg dose administered [25,26], and this was highlighted by a clear dose response in our study. Patients who received a total PQ dose below 2.6 mg/kg had significantly more recurrences than those who received a greater dose: almost 4-fold more in the CQ+PQ arm and 3-fold more in the AL+PQ arm (p < 0.05).
+
+There was also a 3- to 4-fold greater risk of recurrence following treatment of patients’ first recurrent parasitaemia (which was unsupervised) compared to that following treatment of their initial parasitaemia (which was semi-supervised). Although this non-randomized comparison is vulnerable to bias, there was no difference in the risk of recurrence following the first and second treatments with CQ or AL monotherapy, suggesting that the difference was likely due to poor adherence to an unsupervised 14-d regimen of PQ. These findings are consistent with previous studies that have shown PQ adherence falling to less than 30% when unsupervised [27–29]. Significantly lower rates of recurrent parasitaemia were seen in a Thai study when PQ administration was directly observed compared to when it was unsupervised [30], although a difference was not observed in a study in Pakistan [31]. Our study emphasises the need for improved delivery of radical cure, using DOT, shorter treatment courses, and greater emphasis on patient and community education to promote the importance of radical cure and the need to continue treatment after resolution of symptoms [32].
+
+There is reluctance of some healthcare providers to prescribe PQ, mainly due to concerns over its safety and potential for causing severe haemolysis [33]. To ensure safe delivery of PQ, WHO recommends prior testing for G6PD deficiency [34]. However, not many P. vivax endemic countries have implemented this yet. Further work to understand the barriers to routine G6PD testing is currently underway. In our study, PQ was administered to individuals confirmed to be G6PD normal at a total dose of 3.5 mg/kg (a low-dose radical cure regimen) [26]. This regimen was well tolerated, with no significant difference in the number or type of AEs between the PQ and no-PQ study arms. The predominant decline in Hb concentration occurred between enrolment and day 3, although PQ treatment only commenced on day 2. Hb recovery began after day 3; the greatest fall in Hb was thus a consequence of malaria rather than being drug-induced. Furthermore, treatment with PQ resulted in a significant reduction in P. vivax recurrences, each of which were associated with repeated bouts of haemolysis and a cumulative risk of anaemia [5,35].
+
+There were a number of limitations of the study. First, the omission of routine Hb measurements after day 42, except in patients with recurrent malaria, prevented quantification of the long-term effects of recurrent episodes of malaria on the cumulative risk of anaemia. Further studies are needed to define the risk and benefits of alternative PQ dosing strategies in different endemic settings. Second, whilst all of the early recurrent parasitaemias were genotyped and compared with the pre-treatment parasitaemia, this comparison was not undertaken for recurrent infections after day 42. Heterologous recurrences occurring within the first 42 d can be due to either reinfection or relapse events but not true recrudescences. Parasite genotyping allows these events to be censored, enabling a better estimate of early efficacy. However, genotyping of late recurrences cannot distinguish between relapsing infections, which can be either homologous or heterologous, and reinfections. For this reason, we used a conservative approach to quantify and compare the cumulative risk and incidence of all recurrent P. vivax infections irrespective of whether they were homologous or heterologous. Third, the early termination of our trial reduced the final sample size. However, loss to follow-up was lower than assumed in the prior power calculation, and the final sample size enrolled into the study still achieved a power of greater than 80% for the primary outcomes of the study.
+
+In conclusion, although there was evidence of low-grade CQ resistance of P. vivax in our study, the risk of early recurrence appeared greater following AL, likely due to relapsing infections emerging after the post-treatment prophylaxis of AL had waned. When administered as monotherapy, there was little benefit of changing the first-line therapy for vivax malaria from CQ to AL in this region of Ethiopia. However, PQ treatment should be included in future revision of the national treatment guidelines to decrease relapse rates, with likely benefits in reducing both malarial anaemia and transmission potential. Better methods of ensuring adequate adherence will be needed if the public health impact is to be maximised.
+
+Supporting information
+
+Acknowledgments
+
+We thank Babita Ganguly and Mike Green for assistance with drug level testing. We thank the laboratory and field staff.
+
+The opinions expressed herein are those of the authors and do not necessarily represent the official position of the Centers for Disease Control and Prevention or the US Agency for International Development.
+
+Author Contributions
+
+Conceptualization: JH, TA, YT, SG, AA, MK, JM, SPK, DJ, HS, AM, AK, ZM, BHA, HT, GD, LvS, and RNP.
+Data curation: KT, YT.
+Formal analysis: KT and MC.
+Funding acquisition: JH, RNP.
+Investigation: TA, YT, SG, AA, MK, KL, JM, AM, BHA, HT, GD, SC, NL, VU, ZZ, YPS and SA.
+Methodology: JW, KT, LvS, RNP.
+Supervision: LvS, RNP, BA.
+Visualization: KT, SA.
+Writing – original draft: KT, JH, and RNP.
+Writing – review & editing: TA, JH, KT, YT, SG, ZM, AA, MK, MDC, KZL, SMC, NML, VU, ZZ, YPS, SPK, DJ, AK, HS, AM, BHA, JLM, GD, HT, SA, LvS, RNP.
+References
+
+1. Guerra CA, Howes RE, Patil AP, Gething PW, Van Boeckel TP, Temperley WH, et al. The international limits and population at risk of Plasmodium vivax transmission in 2009. PLoS Negl Trop Dis. 2010;4(8):e774. pmid:20689816
+View Article PubMed/NCBI Google Scholar
+2. Price RN, Tjitra E, Guerra CA, Yeung S, White NJ, Anstey NM. Vivax malaria: neglected and not benign. Am J Trop Med Hyg. 2007;77:79–87. pmid:18165478
+View Article PubMed/NCBI Google Scholar
+3. World Health Organization. World malaria report 2014. Geneva: World Health Organization; 2014.
+4. Price RN, von Seidlein L, Valecha N, Nosten F, Baird JK, White NJ. Global extent of chloroquine-resistant Plasmodium vivax: a systematic review and meta-analysis. Lancet Infect Dis. 2014;14(10):982–91. pmid:25213732
+View Article PubMed/NCBI Google Scholar
+5. Douglas NM, Pontororing GJ, Lampah DA, Yeo TW, Kenangalem E, Poespoprodjo JR, et al. Mortality attributable to Plasmodium vivax malaria: a clinical audit from Papua, Indonesia. BMC Med. 2014;12:217. pmid:25406857
+View Article PubMed/NCBI Google Scholar
+6. Price RN, Douglas NM, Anstey NM. New developments in Plasmodium vivax malaria: severe disease and the rise of chloroquine resistance. Curr Opin Infect Dis. 2009;22(5):430–5. pmid:19571748
+View Article PubMed/NCBI Google Scholar
+7. Nigatu W, Abebe M, Dejene A. Plasmodium vivax and P. falciparum epidemiology in Gambella, south-west Ethiopia. Trop Med Parasitol. 1992;43(3):181–5. pmid:1470839
+View Article PubMed/NCBI Google Scholar
+8. Olana D, Chibsa S, Teshome D, Mekasha A, Graves PM, Reithinger R. Malaria, Oromia regional state, Ethiopia, 2001–2006. Emerg Infect Dis. 2011;17(7):1336–7. pmid:21762615
+View Article PubMed/NCBI Google Scholar
+9. Manuel Ramos J, Reyes F, Tesfamariam A. Change in epidemiology of malaria infections in a rural area in Ethiopia. J Travel Med. 2005;12(3):155–6. pmid:15996444
+View Article PubMed/NCBI Google Scholar
+10. Ethiopian Health and Nutrition Research Institute, Federal Ministry of Health. Ethiopia national malaria indicator survey 2011. Addis Ababa: Federal Ministry of Health; 2012.
+11. Lucchi NW, Karell MA, Journel I, Rogier E, Goldman I, Ljolje D, et al. PET-PCR method for the molecular detection of malaria parasites in a national malaria surveillance study in Haiti, 2011. Malar J. 2014;13:462. pmid:25428550
+View Article PubMed/NCBI Google Scholar
+12. Imwong M, Nair S, Pukrittayakamee S, Sudimack D, Williams JT, Mayxay M, et al. Contrasting genetic structure in Plasmodium vivax populations from Asia and South America. Int J Parasitol. 2007;37(8–9):1013–22. pmid:17442318
+View Article PubMed/NCBI Google Scholar
+13. Joy DA, Gonzalez-Ceron L, Carlton JM, Gueye A, Fay M, McCutchan TF, et al. Local adaptation and vector-mediated population structure in Plasmodium vivax malaria. Mol Biol Evol. 2008;25(6):1245–52. pmid:18385220
+View Article PubMed/NCBI Google Scholar
+14. Patchen LC, Mount DL, Schwartz IK, Churchill FC. Analysis of filter-paper-absorbed, finger-stick blood samples for chloroquine and its major metabolite using high-performance liquid chromatography with fluorescence detection. J Chromatogr. 1983;278(1):81–9. pmid:6662888
+View Article PubMed/NCBI Google Scholar
+15. Pukrittayakamee S, Tarning J, Jittamala P, Charunwatthana P, Lawpoolsri S, Lee SJ, et al. Pharmacokinetic interactions between primaquine and chloroquine. Antimicrob Agents Chemother. 2014;58(6):3354–9. pmid:24687509
+View Article PubMed/NCBI Google Scholar
+16. Cabrera M, Cui L. In vitro activities of primaquine-schizonticide combinations on asexual blood stages and gametocytes of Plasmodium falciparum. Antimicrob Agents Chemother. 2015;59(12):7650–6. pmid:26416869
+View Article PubMed/NCBI Google Scholar
+17. Price RN, Auburn S, Marfurt J, Cheng Q. Phenotypic and genotypic characterisation of drug-resistant Plasmodium vivax. Trends Parasitol. 2012;28(11):522–9. pmid:23044287
+View Article PubMed/NCBI Google Scholar
+18. Mekonnen SK, Aseffa A, Berhe N, Teklehaymanot T, Clouse RM, Gebru T, et al. Return of chloroquine-sensitive Plasmodium falciparum parasites and emergence of chloroquine-resistant Plasmodium vivax in Ethiopia. Malar J. 2014;13:244. pmid:24964730
+View Article PubMed/NCBI Google Scholar
+19. Schunk M, Kumma WP, Miranda IB, Osman ME, Roewer S, Alano A, et al. High prevalence of drug-resistance mutations in Plasmodium falciparum and Plasmodium vivax in southern Ethiopia. Malar J. 2006;5:54. pmid:16817953
+View Article PubMed/NCBI Google Scholar
+20. Getachew S, Thriemer K, Auburn S, Abera A, Gadisa E, Aseffa A, et al. Chloroquine efficacy for Plasmodium vivax malaria treatment in southern Ethiopia. Malar J. 2015;14(1):525.
+View Article PubMed/NCBI Google Scholar
+21. Ketema T, Getahun K, Bacha K. Therapeutic efficacy of chloroquine for treatment of Plasmodium vivax malaria cases in Halaba district, South Ethiopia. Parasit Vectors. 2011;4:46. pmid:21453465
+View Article PubMed/NCBI Google Scholar
+22. Baird JK. Chloroquine resistance in Plasmodium vivax. Antimicrob Agents Chemother. 2004;48(11):4075–83. pmid:15504824
+View Article PubMed/NCBI Google Scholar
+23. White NJ. Determinants of relapse periodicity in Plasmodium vivax malaria. Malar J. 2011;10:297. pmid:21989376
+View Article PubMed/NCBI Google Scholar
+24. Karunajeewa HA, Mueller I, Senn M, Lin E, Law I, Gomorrai PS, et al. A trial of combination antimalarial therapies in children from Papua New Guinea. N Engl J Med. 2008;359(24):2545–57. pmid:19064624
+View Article PubMed/NCBI Google Scholar
+25. Baird JK, Rieckmann KH. Can primaquine therapy for vivax malaria be improved? Trends Parasitol. 2003;19(3):115–20. pmid:12643993
+View Article PubMed/NCBI Google Scholar
+26. John GK, Douglas NM, von Seidlein L, Nosten F, Baird JK, White NJ, et al. Primaquine radical cure of Plasmodium vivax: a critical review of the literature. Malar J. 2012;11:280. pmid:22900786
+View Article PubMed/NCBI Google Scholar
+27. Grietens KP, Soto V, Erhart A, Ribera JM, Toomer E, Tenorio A, et al. Adherence to 7-day primaquine treatment for the radical cure of P. vivax in the Peruvian Amazon. Am J Trop Med Hyg. 2010;82(6):1017–23. pmid:20519594
+View Article PubMed/NCBI Google Scholar
+28. Khantikul N, Butraporn P, Kim HS, Leemingsawat S, Tempongko MA, Suwonkerd W. Adherence to antimalarial drug therapy among vivax malaria patients in northern Thailand. J Health Popul Nutr. 2009;27(1):4–13. pmid:19248643
+View Article PubMed/NCBI Google Scholar
+29. Pereira EA, Ishikawa EA, Fontes CJ. Adherence to Plasmodium vivax malaria treatment in the Brazilian Amazon Region. Malar J. 2011;10:355. pmid:22165853
+View Article PubMed/NCBI Google Scholar
+30. Takeuchi R, Lawpoolsri S, Imwong M, Kobayashi J, Kaewkungwal J, Pukrittayakamee S, et al. Directly-observed therapy (DOT) for the radical 14-day primaquine treatment of Plasmodium vivax malaria on the Thai-Myanmar border. Malar J. 2010;9:308. pmid:21040545
+View Article PubMed/NCBI Google Scholar
+31. Leslie T, Rab MA, Ahmadzai H, Durrani N, Fayaz M, Kolaczinski J, et al. Compliance with 14-day primaquine therapy for radical cure of vivax malaria—a randomized placebo-controlled trial comparing unsupervised with supervised treatment. Trans R Soc Trop Med Hyg. 2004;98(3):168–73. pmid:15024927
+View Article PubMed/NCBI Google Scholar
+32. Bruxvoort K, Goodman C, Kachur SP, Schellenberg D. How patients take malaria treatment: a systematic review of the literature on adherence to antimalarial drugs. PLoS ONE. 2014;9(1):e84555. pmid:24465418
+View Article PubMed/NCBI Google Scholar
+33. von Seidlein L, Auburn S, Espino F, Shanks D, Cheng Q, McCarthy J, et al. Review of key knowledge gaps in glucose-6-phosphate dehydrogenase deficiency detection with regard to the safe clinical deployment of 8-aminoquinoline treatment regimens: a workshop report. Malar J. 2013;12:112. pmid:23537118
+View Article PubMed/NCBI Google Scholar
+34. World Health Organization. Guidelines for the treatment of malaria. 3rd edition. Geneva: World Health Organization; 2015 [cited 2017 Apr 11]. http://apps.who.int/iris/bitstream/10665/162441/1/9789241549127_eng.pdf?ua=1&ua=1.
+35. Douglas NM, Lampah DA, Kenangalem E, Simpson JA, Poespoprodjo JR, Sugiarto P, et al. Major burden of severe anemia from non-falciparum malaria species in Southern Papua: a hospital-based surveillance study. PLoS Med. 2013;10(12):e1001575. pmid:24358031
+View Article PubMed/NCBI Google Scholar
